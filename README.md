@@ -1,2 +1,1 @@
-# Atmospheric_Correction
-Atmosferik Düzeltme Eğik Kenar
+# Atmosferik Düzeltme Eğik Kenar
