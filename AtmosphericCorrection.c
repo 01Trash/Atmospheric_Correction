@@ -11,25 +11,25 @@ int main()
 
 		// Bilinenlerin isteyelim.
 	// D > Atmosferik düzeltme getirilmemiş eğik kenar
-	printf("D değerini giriniz: ");
+	printf("Atmosferik düzeltme getirilmemiş eğik kenar (D) değerini giriniz: ");
 	scanf("%lf", &D);
 	// t > Kuru termometre sıcaklığı
-	printf("t değerini giriniz: ");
+	printf("Kuru termometre sıcaklık (t) değerini giriniz: ");
 	scanf("%lf", &t);
 	// t1 > Islak termometre sıcaklığı
-	printf("t1 değerini giriniz: ");
+	printf("Islak termometre sıcaklığı (t1) değerini giriniz: ");
 	scanf("%lf", &t1);
 	// b > Atmosfer basıncı
-	printf("b değerini giriniz: ");
+	printf("Atmosfer basıncı (b) değerini giriniz: ");
 	scanf("%lf", &b);
 	// no > Kullanılan aletin kırılma indisi
-	printf("no değerini giriniz: ");
+	printf("Kullanılan aletin kırılma indisi (no) değerini giriniz: ");
 	scanf("%lf", &no);
 	// Ngr > Grup kırılma indisi
-	printf("Ngr değerini giriniz: ");
+	printf("Grup kırılma indisi (Ngr) değerini giriniz: ");
 	scanf("%lf", &Ngr);
 	// Ko > Sıfır noktası eki değeri
-	printf("Ko değerini giriniz: ");
+	printf("Sıfır noktası eki değeri (Ko) değerini giriniz: ");
 	scanf("%lf", &Ko);
 
 
@@ -50,7 +50,7 @@ int main()
 	K1 = D * (no - n);
 	printf("K1 değeri: %f\n", K1);
 	Datm = D + Ko + K1;
-	printf("Datm değeri: %f\n", Datm);
+	printf("Atmosferik düzeltme getirilmiş eğik kenar (Datm) değeri: %f\n", Datm);
 
 	return 0;
 }
