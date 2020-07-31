@@ -8,12 +8,12 @@ Yer ölçme aleti ile bulduğunuz eğik kenar uzunluğuna, atmosferik düzeltme 
 
 Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 + D > Atmosferik düzeltme getirilmemiş eğik kenar
-+ t >Kuru termometre sıcaklığı
-+ t1 >Islak termometre sıcaklığı
-+ b >Atmosfer basıncı
++ t > Kuru termometre sıcaklığı
++ t1 > Islak termometre sıcaklığı
++ b > Atmosfer basıncı
 + no > Kullanılan aletin kırılma indisi
-+ Ngr >Grup kırılma indisi
-+ Ko >Sıfır noktası eki değeri
++ Ngr > Grup kırılma indisi
++ Ko > Sıfır noktası eki değeri
 
 Yukarıdaki değerlerin girilmesi gerekmektedir.
 
