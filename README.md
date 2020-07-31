@@ -1,4 +1,4 @@
-# Atmosferik Düzeltme Eğik Kenar
+# Atmosferik Eğik Kenar Düzeltme
 
 **Amaç;**
 
