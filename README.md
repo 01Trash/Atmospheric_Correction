@@ -6,7 +6,7 @@ Yer ölçme aleti ile bulduğunuz eğik kenar uzunluğuna, atmosferik düzeltme 
 
 **Kullanım Rehberi;**
 
-Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
+Yazılımı çalıştırdığınız zaman;
 + D > Atmosferik düzeltme getirilmemiş eğik kenar
 + t > Kuru termometre sıcaklığı
 + t1 > Islak termometre sıcaklığı
