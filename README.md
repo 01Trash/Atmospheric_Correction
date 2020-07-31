@@ -19,3 +19,4 @@ Yukarıdaki değerlerin girilmesi gerekmektedir.
 
 Hesaplananlar;
 + E, e1, n , K1
++ Datm (Atmosferik düzeltme getirilmiş eğik kenar)
